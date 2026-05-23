@@ -4,7 +4,7 @@ A **szövet** azonos feladat ellátására kialakult, hasonló alakú, (általá
 
 ## A hámszövetek
 
-A hámszövetek külső vagy belső felszíneket borítanak (**fedőhám**). Szorosan (sejtkapcsoló struktúrákkal) záródó sejtek, amelyek a sejtek által termelt **alaphártyához** rögzülnek. Sejt közötti állománya kevés. Feladataik az **elhatárolás és a védelem**.
+A hámszövetek külső vagy belső felszíneket borítanak (**fedőhám**). Szorosan (sejtkapcsoló struktúrákkal) záródó sejtek, amelyek a sejtek által termelt **alaphártyához** rögzülnek. Sejt közötti állományuk kevés. Feladataik az **elhatárolás és a védelem**.
 
 A hámszöveteknek más funkciói is lehetnek, ami a felépítésükben is tükröződik. Lehetnek **egyetlen sejtrétegből felépülők**, illetve **többrétegűek** is. Lehetnek **laposak (laphám)**, **kocka alakúak (köbhám)**, **henger formájúak (hengerhám)**, egy rétegben elhelyezkedők, illetve **többrétegűek**.
 
