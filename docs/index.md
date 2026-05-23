@@ -1,6 +1,6 @@
 # Biológia tételek
 
-Eddig elkészült **12 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
+Eddig elkészült **13 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
 
 1. [Életkritériumok](01-eletkriteriumok.md)
 2. [Kromatográfia, gélelektroforézis](02-kromatografia-gelelektroforezis.md)
@@ -14,3 +14,4 @@ Eddig elkészült **12 tétel**. Válassz a bal oldali navigációból, vagy a l
 10. [Enzimek](10-enzimek.md)
 11. [Nukleotidok](11-nukleotidok.md)
 12. [Vírusok](12-virusok.md)
+13. [Anyagcseretípusok (szén- és energiaforrás)](13-anyagcseretipusok.md)
