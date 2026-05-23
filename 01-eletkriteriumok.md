@@ -2,6 +2,8 @@
 
 **Az élet fogalma.** Az élő rendszerek a természet hierarchikusan felépülő, anyag- és energiaforgalmat folytató, önszabályozó rendszerei. Az élővilág szerveződési szintjei: sejt → szövet → szerv → szervezet (egyed) → populáció → társulás → bioszféra.
 
+A könyv szerint **az élet legkisebb szintje a sejt** (minimálrendszer: prokarióta sejttípus); a sejt alatti szintek (biogén elemek, szervetlen és szerves molekulák) önmagukban nem életek, csak az élet **felépítő alkotóelemei**.
+
 **Az élet (egyedi) kritériumai – a könyv felsorolása:**
 
 1. **Elhatárolódás:** az élőlények saját, szabályozott összetételű belső környezetet különítenek el a külvilágtól; ez a hierarchia minden szintjén (sejt, szervezet) jellemző. A sejtek határoló membránjai féligáteresztők, az anyagcsere itt zajlik.
