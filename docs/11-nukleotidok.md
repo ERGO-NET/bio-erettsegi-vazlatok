@@ -16,7 +16,7 @@ A bázis gyűrűatomjait számokkal (1, 2, 3...), a cukoregység szénatomjait p
 
 ## Egyszerű nukleotidok – koenzimek
 
-Egy vagy két nukleotidegységből és egyéb csoportokból felépülő molekulák. Általában **koenzimek**: enzimekhez **lazán, reverzibilisen** kötődnek, csoportokat (foszfátot, hidrogént, acetilt) szállítanak. Fő képviselők: **ATP, NAD⁺, NADP⁺, FAD, koenzim-A**.
+Egy vagy két nukleotidegységből (foszforsav, 5 szénatomos cukor, nitrogéntartalmú bázis) és egyéb csoportokból felépülő molekulák a **nukleotidok**. Általában **koenzimek**, az enzimek működéséhez szükséges **nem kovalensen kapcsolódó molekulák**. Képviselőik: **ATP, NAD⁺, NADP⁺, koenzim-A**.
 
 ### ATP (adenozin-trifoszfát)
 
@@ -36,34 +36,30 @@ Két nukleotidegységből álló molekulák, amelyek **két foszfátcsoportnál*
 **Funkciójuk: hidrogén- és elektronátvivő koenzimek.**
 
 - A szerves vegyületek oxidációja során leadott **2 elektron + 1 H⁺** felvételére (redukcióra) alkalmasak: **NAD⁺ + 2H⁺ + 2e⁻ ⇌ NADH + H⁺**.
-- **NAD⁺ → NADH**: oxidálószer a **lebontó** folyamatokhoz (pl. biológiai oxidáció).
-- **NADP⁺ → NADPH**: redukálószer a **felépítő** folyamatokhoz (pl. zsírsavszintézis, koleszterinszintézis, fotoszintézis sötét szakasza).
-- A sejtben a NAD⁺/NADH arány magas (sok oxidált forma) – mert oxidáláshoz kell. A NADP⁺/NADPH arány alacsony (sok redukált forma) – mert redukáláshoz kell.
+- A NAD⁺ **főleg oxidálószerként** szükséges a sejtnek, ezért sok NAD⁺ és kevés NADH kell hogy legyen a sejtben.
+- A NADP⁺ ezzel szemben **redukálószerként** szükséges az enzimeknek, ezért sok NADPH és kevés NADP⁺ kell hogy legyen a sejtben. Példa a NADPH felhasználására állati szervezetben: a koleszterin képződése.
 
 ### Koenzim-A (koA)
 
-Egyszerű nukleotid: **adenintartalmú nukleotid** + szerves molekularész (pantoténsav-származék, B₅-vitamin). A molekula végén egy **szulfhidrilcsoport (–SH)** található, ehhez kötődik az **acetilcsoport (CH₃CO–)**. A kötés **nagy energiájú**, felbomlása energetikailag kedvező. A koenzim-A a **cukrok lebontásához** és a **zsírsavak fel- és lebontásához** szükséges (acetil-csoport „építőkövek” szállítása).
+A koenzim-A a biokémiai folyamatokhoz két szénatomos „építőköveket”, **acetilcsoportokat** szállít. A molekula egy adenintartalmú nukleotidból és ennek terminális foszfátcsoportjához kapcsolódó szerves molekularészből (pantoténsav-származék) felépülő **egyszerű nukleotid**. A molekula végén található **szulfhidrilcsoporthoz (–SH)** kondenzációval kapcsolódik az acetilcsoport. A koenzim-A a **cukrok lebontásához** és a **zsírsavak felépítéséhez és lebontásához** szükséges. Az acetilcsoport és a kénatom közötti kötés **nagy energiájú**, felbomlása energetikailag kedvező.
 
 ## Nukleinsavak
 
-A nukleinsavak nukleotidegységek **foszfátcsoportjaikon keresztül** összekapcsolódó polimerei. Egy nukleotid foszfátcsoportja egy **másik ribóz vagy dezoxiribóz 3' szénatomjához** kapcsolódik **foszfodiészter-kötéssel**, így hosszú lánc jön létre.
+A **nukleinsavak**ban a nukleotidegységek (nukleozid-monofoszfátok) **foszfátcsoportjaikon keresztül** kapcsolódnak egymáshoz. Egy nukleotid foszfátcsoportja egy **másik ribóz vagy dezoxiribóz 3' szénatomjához** kapcsolódik **foszfodiészter-kötéssel**.
 
 ### DNS (dezoxiribonukleinsav)
 
 - Cukoregység: **dezoxiribóz**.
 - Bázisok: **A, T, G, C** (uracil nincs).
 - A láncgerincet a cukor- és foszfátegységek adják (egyforma), a változó részt a hozzájuk kapcsolódó négy különböző bázis. A **bázisok sorrendje hordozza a genetikai információt**.
-- **Kettős hélix**: két, egymással ellentétes lefutású szál csavarodik egymás köré (jobbmenetes spirál). A két szál **komplementere egymásnak**: **A–T** és **G–C** bázispárok között **hidrogénkötések** alakulnak ki. Mivel egy purinnal mindig pirimidin áll szemben, a két szál távolsága állandó.
-- Méretek: átmérő ≈ **2 nm**, egy fordulat ≈ 3,4 nm és 10 bázispárt tartalmaz (egy bázispár ≈ 0,34 nm).
-- **5'- és 3'-vég**: a szabad foszfátot hordozó vég az 5'-vég, a szabad OH-csoportot tartalmazó az 3'-vég. A két szál egymással **antiparalel**.
+- **Kettős hélix:** a DNS-szálat egy vele ellentétes lefutású szál kíséri, ezek egymás körül felcsavarodva kettős hélixet alkotnak. A két szál egymás **komplementere (kiegészítője)**: csak bizonyos bázispárok között tudnak hidrogénkötések kialakulni. Az **adeninnel szemben timin**, a **guaninnal szemben citozin** található a hélixben. Mivel a purin bázissal szemben mindig pirimidin bázis helyezkedik el, a két szál távolsága állandó.
+- A két szálat a **bázisok között kialakuló hidrogénkötések** kapcsolják egymáshoz. A hélix jobbmenetes, **2 nm átmérőjű**. Egy fordulat **3,4 nm hosszúságú és 10 bázispár** alkotja (egy bázispár 0,34 nm hosszúságú).
+- **5'- és 3'-vég:** egy szál esetében a 3' szénatomhoz tartozó szabad hidroxilcsoporttal rendelkező véget **3'-végnek**, a szabad foszfátcsoporttal rendelkező véget pedig **5'-végnek** nevezzük.
 
 ### RNS (ribonukleinsav)
 
 - Cukoregység: **ribóz** (a 2' szénen OH).
 - Bázisok: **A, U, G, C** (timin helyett **uracil**).
-- **Egyszálú** (a fehérjeszintézis részleteit a 69. tétel tárgyalja).
-
-A DNS őrzi a genetikai információt, az RNS-ek a fehérjeszintézis során közvetítik és kivitelezik ezt az információt. Az egyszerű nukleotidok (ATP, NAD⁺, koA) ezzel szemben **energetikai és csoportszállító feladatokat** látnak el – a nukleotidok tehát egyaránt **információhordozók és anyagcsere-közvetítők**: kétféle, de szervesen összefüggő szerep ugyanazokból az építőkövekből.
 
 ---
 
@@ -79,7 +75,7 @@ A DNS őrzi a genetikai információt, az RNS-ek a fehérjeszintézis során kö
 
 ![A DNS kettős hélix és a bázispárosodás](abrak/11c-dns-helix.png)
 
-*A DNS kettős spirál szerkezete. A két szál antiparalel: az egyik 5' → 3', a másik 3' → 5' irányú; a láncgerincet a cukor (kék) – foszfát (sárga) egységek adják. A két szál között hidrogénkötések kapcsolják össze a komplementer bázispárokat: A–T két, G–C három hidrogénkötéssel. Mivel purin (A, G) mindig pirimidinnel (T, C) áll szemben, a szálak távolsága állandó, ≈ 2 nm. Egy teljes fordulat 3,4 nm hosszú és 10 bázispárt tartalmaz.*
+*A DNS kettős spirál szerkezete. A két szál egymással ellentétes lefutású: az egyik 5' → 3', a másik 3' → 5' irányú; a láncgerincet a cukor (kék) – foszfát (sárga) egységek adják. A két szál között hidrogénkötések kapcsolják össze a komplementer bázispárokat: adeninnel szemben mindig timin, guaninnal szemben mindig citozin található. Mivel purin (A, G) mindig pirimidinnel (T, C) áll szemben, a szálak távolsága állandó, ≈ 2 nm. Egy teljes fordulat 3,4 nm hosszú és 10 bázispárt tartalmaz.*
 
 ---
 
