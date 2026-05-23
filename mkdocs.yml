@@ -39,6 +39,7 @@ nav:
       - 9. Enzimműködés, enzimgátlás, jelátvitel: 09-enzimmukodes-enzimgatlas-jelatvitel.md
       - 10. Enzimek: 10-enzimek.md
       - 11. Nukleotidok: 11-nukleotidok.md
+      - 12. Vírusok: 12-virusok.md
 
 markdown_extensions:
   - admonition
