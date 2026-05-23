@@ -51,6 +51,7 @@ nav:
       - 15. Biológiai oxidáció: 15-biologiai-oxidacio.md
       - 16. A sejtanyagcsere és a mitokondrium: 16-sejtanyagcsere-mitokondrium.md
       - 17. A baktériumok jelentősége: 17-bakteriumok-jelentosege.md
+      - 18. Sejtosztódások: 18-sejtosztodasok.md
 
 markdown_extensions:
   - admonition
