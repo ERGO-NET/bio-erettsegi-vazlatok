@@ -1,6 +1,10 @@
 site_name: Biológia tételek
 docs_dir: docs
 site_url: https://ergo-net.github.io/bio-erettsegi-vazlatok/
+copyright: Made with Python 3.14 | Astro 6 | Starlight 0.39
+
+extra:
+  generator: false
 
 extra_css:
   - stylesheets/extra.css
