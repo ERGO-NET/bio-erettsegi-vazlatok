@@ -1,5 +1,5 @@
 site_name: Biológia tételek
-docs_dir: .
+docs_dir: docs
 site_url: https://ergo-net.github.io/bio-erettsegi-vazlatok/
 
 theme:
