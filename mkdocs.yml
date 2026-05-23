@@ -55,6 +55,7 @@ nav:
       - 19. Mohák és harasztok: 19-mohak-harasztok.md
       - 20. Szárazföldi növények és a kettős megtermékenyítés: 20-szarazfoldi-novenyek-kettos-megtermekenyites.md
       - 21. Folyadékáramlás növényekben: 21-folyadekaramlas-novenyekben.md
+      - 22. Állati szövetek: 22-allati-szovetek.md
 
 markdown_extensions:
   - admonition

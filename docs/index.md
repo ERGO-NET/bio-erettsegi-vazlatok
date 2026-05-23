@@ -1,6 +1,6 @@
 # Biológia tételek
 
-Eddig elkészült **21 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
+Eddig elkészült **22 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
 
 1. [Életkritériumok](01-eletkriteriumok.md)
 2. [Kromatográfia, gélelektroforézis](02-kromatografia-gelelektroforezis.md)
@@ -23,3 +23,4 @@ Eddig elkészült **21 tétel**. Válassz a bal oldali navigációból, vagy a l
 19. [Mohák és harasztok](19-mohak-harasztok.md)
 20. [Szárazföldi növények és a kettős megtermékenyítés](20-szarazfoldi-novenyek-kettos-megtermekenyites.md)
 21. [Folyadékáramlás növényekben](21-folyadekaramlas-novenyekben.md)
+22. [Állati szövetek](22-allati-szovetek.md)
