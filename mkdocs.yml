@@ -1,0 +1,53 @@
+site_name: Biológia tételek
+docs_dir: .
+site_url: https://ergo-net.github.io/bio-erettsegi-vazlatok/
+
+theme:
+  name: material
+  language: hu
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - toc.integrate
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Sötét mód
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Világos mód
+
+nav:
+  - Kezdőlap: index.md
+  - Tételek:
+      - 1. Életkritériumok: 01-eletkriteriumok.md
+      - 2. Kromatográfia, gélelektroforézis: 02-kromatografia-gelelektroforezis.md
+      - 3. Víz tulajdonságai: 03-viz-tulajdonsagai.md
+      - 4. Ozmózis: 04-ozmozis.md
+      - 5. Lipidek: 05-lipidek.md
+      - 6. Szénhidrátok biológiai szerepe: 06-szenhidratok-biologiai-szerepe.md
+      - 7. Fehérjék biológiai szerepe: 07-feherjek-biologiai-szerepe.md
+      - 8. Fehérjék szerkezete, funkciói: 08-feherjek-szerkezete-funkcioi.md
+      - 9. Enzimműködés, enzimgátlás, jelátvitel: 09-enzimmukodes-enzimgatlas-jelatvitel.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
