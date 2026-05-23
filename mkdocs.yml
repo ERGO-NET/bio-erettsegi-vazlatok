@@ -37,6 +37,7 @@ nav:
       - 7. Fehérjék biológiai szerepe: 07-feherjek-biologiai-szerepe.md
       - 8. Fehérjék szerkezete, funkciói: 08-feherjek-szerkezete-funkcioi.md
       - 9. Enzimműködés, enzimgátlás, jelátvitel: 09-enzimmukodes-enzimgatlas-jelatvitel.md
+      - 10. Enzimek: 10-enzimek.md
 
 markdown_extensions:
   - admonition
