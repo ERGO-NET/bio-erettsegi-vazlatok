@@ -46,6 +46,7 @@ nav:
       - 14. A fotoszintézis: 14-fotoszintezis.md
       - 15. Biológiai oxidáció: 15-biologiai-oxidacio.md
       - 16. A sejtanyagcsere és a mitokondrium: 16-sejtanyagcsere-mitokondrium.md
+      - 17. A baktériumok jelentősége: 17-bakteriumok-jelentosege.md
 
 markdown_extensions:
   - admonition
