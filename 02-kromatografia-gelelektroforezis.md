@@ -29,3 +29,7 @@ Mindkét módszer **biokémiai keverékek (molekulák) szétválasztására** sz
 ![Növényi színanyagok kromatogramja](abrak/02-noveny-kromatogram.png)
 
 *Növényi színanyagok kromatogramja: a különböző festékek (xantofillok, klorofill-a, klorofill-b, karotinok stb.) más-más magasságban jelennek meg a papíron.*
+
+---
+
+*Az anyag az 1. tankönyv 22, 23. oldalain található.*

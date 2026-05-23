@@ -26,6 +26,10 @@
 
 ## Kapcsolódó fogalmak a könyvből
 
-- **Önszabályozás, visszacsatolás** (negatív/pozitív) – a stabilitás fenntartásának eszköze (12–13. o.).
-- **Hierarchikus rendszerszemlélet** – minden szint a kisebb rendszerekből épül fel és nagyobb rendszer része (13. o., 15. ábra).
+- **Önszabályozás, visszacsatolás** (negatív/pozitív) – a stabilitás fenntartásának eszköze.
+- **Hierarchikus rendszerszemlélet** – minden szint a kisebb rendszerekből épül fel és nagyobb rendszer része.
 - **Élettelen rendszerekkel szembeni különbség:** az élő rendszerek nyitottak (anyag/energia áramlik át rajtuk), és a magas rendezettséget aktívan tartják fenn.
+
+---
+
+*Az anyag az 1. tankönyv 12, 13, 14, 15, 16. oldalain található.*

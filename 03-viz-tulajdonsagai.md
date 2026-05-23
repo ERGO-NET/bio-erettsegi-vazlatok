@@ -26,3 +26,7 @@ A víz nemcsak élőhely az élőlényeknek, hanem **az élő szervezetek legfon
 ![Testfolyadékok átlagos pH-ja](abrak/03-testfolyadek-ph.png)
 
 *Néhány testfolyadék átlagos pH-ja és normáltartománya (vér 7,35–7,45; gyomornedv 1,0–3,0 stb.).*
+
+---
+
+*Az anyag az 1. tankönyv 44, 45. oldalain található.*
