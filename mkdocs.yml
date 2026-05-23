@@ -2,6 +2,9 @@ site_name: Biológia tételek
 docs_dir: docs
 site_url: https://ergo-net.github.io/bio-erettsegi-vazlatok/
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   language: hu
