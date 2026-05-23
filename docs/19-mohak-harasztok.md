@@ -10,7 +10,7 @@ A talaj mohagyepjei lassítják a csapadék talajba jutását, mivel szivacskén
 
 ### A mohák nemzedékváltakozása
 
-A mohákra **nemzedékváltakozás** jellemző. A meiózissal keletkező egyszeres kromoszómakészletű (haploid, n) **spórából** először szintén haploid fonalas **előtelep**, majd abból **mohanövény** fejlődik. Az egyes mohanövények csúcsi részén mitózissal jönnek létre a **hímivarsejtek** és a **petesejtek**. A megtermékenyítéshez **vízre van szüksége**, mert a hímivarsejtek ostorosak, és csak vízben úszva tudnak eljutni a petesejthez. A **zigóta** (megtermékenyített petesejt) már kétszeres kromoszómakészlettel rendelkezik (**diploid, 2n**), belőle fejlődik a mohanövény csúcsán a szintén diploid **spóratartó**, melynek spóratokjában keletkeznek a spórák.
+A mohákra **nemzedékváltakozás** jellemző. A meiózissal keletkező egyszeres kromoszómakészletű (haploid, n) **spórából** először szintén haploid fonalas **előtelep**, majd abból **mohanövény** fejlődik. Az egyes mohanövények csúcsi részén mitózissal jönnek létre a **hímivarsejtek** és a **petesejtek**. A megtermékenyítéshez **vízre van szükségük**, mert a hímivarsejtek ostorosak, és csak vízben úszva tudnak eljutni a petesejthez. A **zigóta** (megtermékenyített petesejt) már kétszeres kromoszómakészlettel rendelkezik (**diploid, 2n**), belőle fejlődik a mohanövény csúcsán a szintén diploid **spóratartó**, melynek spóratokjában keletkeznek a spórák.
 
 A haploid nemzedéket hívjuk **ivaros nemzedéknek** (hiszen ivarsejteket termel), a diploid nemzedéket pedig **ivartalan nemzedéknek** (mivel spórákat, ivartalan szaporítóképleteket hoz létre). A spóraképzés és a spórák széllel történő szétszóródása lehetővé teszi a mohafajok szélesebb körű szárazföldi elterjedését, az ivaros szaporodással pedig lehetővé válik a fajon belül az eltérő génkészletű egyedek kombinálódása, új genotípusok kialakulása, ami növeli a faj alkalmazkodóképességét a változó környezeti feltételekhez.
 
@@ -22,7 +22,7 @@ A haploid nemzedéket hívjuk **ivaros nemzedéknek** (hiszen ivarsejteket terme
 
 - haploid (ivaros) és diploid (ivartalan) szakasza is van;
 - spórákat és ivarsejteket is termelnek;
-- a megtermékenyítéshez még vízre van szüksége.
+- a megtermékenyítéshez még vízre van szükségük.
 
 **Különbségek a mohákhoz képest:**
 
@@ -58,7 +58,7 @@ A szárazföldi növények közül elsőként a harasztok csoportjába tartozó 
 
 ![A harasztok nemzedékváltakozása (erdei pajzsika)](abrak/19b-harasztok-fejlodese.png)
 
-*A tankönyv 22. ábrája alapján. A haploid (n) ivaros nemzedék: spóra → lemezes előtelep → ivarsejtek (hím- és petesejtképzés). A diploid (2n) ivartalan nemzedék: zigóta → harasztnövény (a domináns, gyökérrel, szárral, levéllel) → spóratartó tok a levelek fonákán → meiózissal spórák.*
+*A tankönyv 22. ábrája alapján. A haploid (n) ivaros nemzedék: spóra → lemezes előtelep → ivarsejtek (hím- és petesejtképzés). A diploid (2n) ivartalan nemzedék: zigóta → harasztnövény (gyökérrel, szárral, levéllel) → spóratartó tok a levelek fonákán → meiózissal spórák.*
 
 ![A mohák és a harasztok nemzedékváltakozásának összehasonlítása](abrak/19c-mohak-harasztok.png)
 

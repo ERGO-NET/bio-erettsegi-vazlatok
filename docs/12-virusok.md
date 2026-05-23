@@ -40,7 +40,7 @@ A HIV az **immunrendszer sejtjeit támadja meg**, ezzel **szerzett immunhiányos
 
 A közvetlen károsodás okai: a sejt energiájának felhasználása, a sejt saját makromolekuláris szintézisének leállása, a vírus-genom beépüléséből származó mutációk, a gyulladásos válasz (citokinvihar). Egyes vírusok (EBV, HPV) **daganatkeltőek** lehetnek (onkogén vírusok).
 
-A sejt egyik természetes védekezése az **RNS-interferencia**: ha kétszálú RNS jelenik meg (ami normális esetben nincs a sejtben), egy enzim rövid darabokra bontja, és ezekkel azonosítja és lebontja a hasonló szekvenciájú vírus-RNS-eket. Ez nemcsak vírusvédekezés, hanem a saját génkifejeződés szabályozója is – a gyógyítás eszközeként is használják (génceddesítés, miRNS, siRNS).
+A sejt egyik természetes védekezése az **RNS-interferencia**: ha kétszálú RNS jelenik meg (ami normális esetben nincs a sejtben), egy enzim rövid darabokra bontja, és ezekkel azonosítja és lebontja a hasonló szekvenciájú vírus-RNS-eket. Ez nemcsak vírusvédekezés, hanem a saját génkifejeződés szabályozója is – a gyógyítás eszközeként is használják (géncsendesítés, miRNS, siRNS).
 
 ## A vírusok evolúciója és változatossága
 

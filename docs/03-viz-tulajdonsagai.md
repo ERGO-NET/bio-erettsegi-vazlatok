@@ -17,7 +17,7 @@ A víz nemcsak élőhely az élőlényeknek, hanem **az élő szervezetek legfon
 
 - **Univerzális oldószer:** poláris és ionos vegyületeket old (sók, cukrok, aminosavak); a hidrofób (apoláris) anyagokat „kilöki" → membránok kialakulásának alapja.
 - **Biokémiai reakciók közege és résztvevője:** **hidrolízisnél** vízmolekula közbeiktatásával bontunk kötéseket; **kondenzációnál** víz lép ki melléktermékként (pl. fehérje- és cukor­képződéskor).
-- A pufferrendszerek (pl. hidrogén-karbonát/szénsav) a víz alapú belső környezet **pH-ját tartják állandóan** (vér pH ≈ 7,4).
+- A pufferrendszerek (pl. hidrogén-karbonát/szénsav) a víz alapú belső környezet **pH-ját tartják állandó értéken** (vér pH ≈ 7,4).
 
 ---
 

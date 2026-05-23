@@ -2,7 +2,7 @@
 
 ## A baktériumok általános jellemzői
 
-Az élőlényeket sejtjeik felépítése szerint két nagy csoportra osztjuk: **prokarióták** (sejtmagnélküliek) és **eukarióták** (valódi sejtmaggal rendelkezők). A prokarióták közé tartoznak a **baktériumok** (valódi és ősbaktériumok). Sejtjeik kis méretűek (1 μm körüliek), és **nincs sejten belüli membránrendszerük**.
+Az élőlényeket sejtjeik felépítése szerint két nagy csoportra osztjuk: **prokarióták** (sejtmag nélküliek) és **eukarióták** (valódi sejtmaggal rendelkezők). A prokarióták közé tartoznak a **baktériumok** (valódi és ősbaktériumok). Sejtjeik kis méretűek (1 μm körüliek), és **nincs sejten belüli membránrendszerük**.
 
 A sejtjeiket sejthártya határolja, ezen kívül **sejtfal** (peptidoglikán/murein), egyeseknél további védőréteg (**tok**) található. Bizonyos baktériumok kedvezőtlen körülmények között (szárazság, nagy nyomás, magas hőmérséklet) örökítőanyaguk védelmére vastag falat képeznek – ez a **spóra**, amely **kitartóképződmény**, nem szaporítósejt.
 
@@ -47,7 +47,7 @@ A baktériumok kórokozó hatásának lehetséges kiváltói a **baktériumtoxin
 
 | Betegség | Fő jellemzők |
 | --- | --- |
-| **szalmonella** | fertőzött hús-, tojáskészítményekkel jut a szervezetbe; 6–12 óra alatt elszaporodnak, ételmérgezés |
+| **szalmonella** | fertőzött hús-, tojáskészítményekkel jut a szervezetbe; 6–12 óra alatt elszaporodik, ételmérgezés |
 | **tuberkulózis (tbc)** | a kórokozó a tüdőt támadja meg; Magyarországon 2012-ig kötelező volt a szűrése |
 | **Lyme-kór** | kullancscsípés után piros, körkörös, gyűrű alakú folt; krónikussá válhat, ízületi gyulladást okoz |
 | **tetanusz** | földdel szennyezett sebbel jut a szervezetbe; toxinja izomgörcsöket okoz |

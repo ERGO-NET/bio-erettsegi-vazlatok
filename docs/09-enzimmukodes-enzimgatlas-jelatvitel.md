@@ -4,7 +4,7 @@
 
 Az **enzimek biokatalizátorok**: élő sejtek által termelt, túlnyomórészt **globuláris fehérjék**, amelyek a biokémiai reakciók **aktiválási energiáját csökkentik**, így gyorsítva a reakciót, de a saját szerkezetük változatlan marad. Egyetlen sejtben több ezer enzim működik.
 
-- **Aktív centrum:** a fehérje egy zsebszerű része, ahova a **szubsztrát** (átalakuló molekula) bekötődik. Bekötés modellje: korábban **kulcs-zár modell**, ma elfogadott a **indukált illeszkedés** – a szubsztrát kötődéskor finoman alakítja az aktív centrum formáját.
+- **Aktív centrum:** a fehérje egy zsebszerű része, ahova a **szubsztrát** (átalakuló molekula) bekötődik. Bekötés modellje: korábban **kulcs-zár modell**, ma elfogadott az **indukált illeszkedés** – a szubsztrát kötődéskor finoman alakítja az aktív centrum formáját.
 - **Enzim–szubsztrát-komplex** → termékek; az enzim újra felhasználható.
 - **Specifikusság:** minden enzim adott szubsztrátot vagy szubsztrátcsoportot ismer fel.
 - **Optimum:** a működés függ a **hőmérséklettől** (kb. 37 °C az emberben; magasabb hő denaturál), a **pH-tól** (pl. pepszin pH ~2, tripszin pH ~8), a **szubsztrát- és enzimkoncentrációtól**.
@@ -20,7 +20,7 @@ Az **enzimek biokatalizátorok**: élő sejtek által termelt, túlnyomórészt 
 
 ## Jelátvitel (sejtek közötti kommunikáció)
 
-A sejtek kémiai jelmolekulákkal kommunikálnak: **hormonok** (endokrin), **citokinek** (paracrin/autokrin), **neurotranszmitterek**, **feromonok**.
+A sejtek kémiai jelmolekulákkal kommunikálnak: **hormonok** (endokrin), **citokinek** (parakrin/autokrin), **neurotranszmitterek**, **feromonok**.
 
 A jelátvitel **három fő lépésből** áll:
 

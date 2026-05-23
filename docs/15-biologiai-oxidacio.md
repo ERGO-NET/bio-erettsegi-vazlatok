@@ -11,7 +11,7 @@ A szerves anyagok energianyerés céljából történő lebontása **két alapve
 
 ## A biológiai oxidáció lényege
 
-A biológiai oxidáció eukarióta sejtek döntő többségében, illetve számos prokariótában is sejtlégzés. A több lépésben zajló biokémiai átalakulás során a szerves anyagok szénatomjai **szén-dioxiddá oxidálódnak**, miközben hidrogéntartalmuk szállítómolekulákra (NAD⁺ koenzim) kerül. A hidrogénnel feltöltött szállítómolekulák (NADH+H⁺, röviden NADH₂) a **terminális oxidáció**nak nevezett folyamatban egy enzimrendszer segítségével oxidálódnak, miközben hidrogénjük egyesül a légzésből származó **oxigénnel (O₂)**, és vizet képez. A teljes folyamat során jelentős mennyiségű **ATP** keletkezik. Eukarióta sejtekben a biológiai oxidáció színtere a **mitokondrium**.
+A biológiai oxidáció eukarióta sejtek döntő többségében, illetve számos prokariótában is sejtlégzés. A több lépésben zajló biokémiai átalakulás során a szerves anyagok szénatomjai **szén-dioxiddá oxidálódnak**, miközben hidrogéntartalmuk szállítómolekulákra (NAD⁺ koenzim) kerül. A hidrogénnel feltöltött szállítómolekulák (NADH+H⁺, röviden NADH₂) a **terminális oxidáció**nak nevezett folyamatban egy enzimrendszer segítségével oxidálódnak, miközben hidrogénjük egyesül a légzésből származó **oxigénnel (O₂)**, és vizet képeznek. A teljes folyamat során jelentős mennyiségű **ATP** keletkezik. Eukarióta sejtekben a biológiai oxidáció színtere a **mitokondrium**.
 
 A folyamat lényege: az **első 3 részfolyamatban** a molekulákban lévő H-ek egy része hidrogénszállítókra kerül, míg a **4. folyamatban** a H-ek oxidációjával ATP keletkezik.
 
@@ -69,7 +69,7 @@ Az utolsó lépés a **terminális oxidáció**, ahol az egy mól glükózból e
 
 Más szerves vegyületek is becsatlakoznak a lebontó folyamatokba:
 
-- A **zsírok** zsírsavakra és glicerinre bomlanak. A páros szénatomszámú zsírsavak — mintha télisalámit szeletelnénk — csak **acetilcsoportokká** keletkeznek. A páratlan szénatomszámú vegyületek (mint a glicerin) vagy a páratlan szénatomszámú zsírsavak acetilcsoportokká alakítása már több lépést igényel, de a szervezet megvalósítja.
+- A **zsírok** zsírsavakra és glicerinre bomlanak. A páros szénatomszámú zsírsavakból — mintha télisalámit szeletelnénk — csak **acetilcsoportok keletkeznek**. A páratlan szénatomszámú vegyületek (mint a glicerin) vagy a páratlan szénatomszámú zsírsavak acetilcsoportokká alakítása már több lépést igényel, de a szervezet megvalósítja.
 - A **fehérjék** aminosavakra bomlanak. A C-tartalmú rész piroszőlősavvá vagy acetilcsoporttá alakulhat. A **nitrogéntartalmú vegyületek** kezelését el kell végezni (**nitrogén-anyagcsere**) — legegyszerűbb a nitrogéntől ammóniává alakítani, de ez mérgező, ezért a szárazföldi szervezetek karbamiddá vagy húgysavvá alakítják. Az aminosavak nitrogéntartalma karbamiddá, a nukleotidok purinbázisaié pedig húgysavvá alakul, amelyek a vizelettel ürülnek ki.
 - A **nukleinsavak** nukleotidokra bomlanak.
 
@@ -79,9 +79,9 @@ A szerves vegyületek energiatartalma a bennük található **C–H-kötések sz
 
 Egyes élő szervezetek, illetve bizonyos szöveti sejtek **oxigén hiányában (anaerob feltételek mellett)** képesek szerves anyagok lebontásából energiát nyerni **erjedéssel**.
 
-**Alkoholos erjedés.** Az élesztőgombákra jellemző. Termékei az **etil-alkohol (etanol)** és a **szén-dioxid**. Egy mól szőlőcukor alkoholos erjedése összességében **2 mól ATP** képződését eredményezi. Alkoholos erjedéssel bort, sört állítanak elő, és kelt tésztát készítettünk. Az erjedést katalizáló enzimek a **sejtplazmában** találhatók, így ezek a folyamatok ott játszódnak le.
+**Alkoholos erjedés.** Az élesztőgombákra jellemző. Termékei az **etil-alkohol (etanol)** és a **szén-dioxid**. Egy mól szőlőcukor alkoholos erjedése összességében **2 mól ATP** képződését eredményezi. Alkoholos erjedéssel bort, sört állítanak elő, és kelt tésztát készítenek. Az erjedést katalizáló enzimek a **sejtplazmában** találhatók, így ezek a folyamatok ott játszódnak le.
 
-A piroszőlősavból egy dekarboxileződést (szén-dioxid kihasadása) követően, és így **etil-alkohol** keletkezik. A folyamat egyszerűsített egyenlete:
+A piroszőlősavból egy dekarboxileződés (szén-dioxid kihasadása) után **etil-alkohol** keletkezik. A folyamat egyszerűsített egyenlete:
 
 **2 CH₃-CO-COOH + 2 NADH₂ → 2 CH₃-CH₂-OH + 2 CO₂ + 2 NAD⁺**
 

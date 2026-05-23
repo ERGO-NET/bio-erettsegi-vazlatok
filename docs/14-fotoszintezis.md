@@ -2,13 +2,13 @@
 
 ## A fotoszintézis jelentősége
 
-A **fotoszintézis** az egész élővilág szempontjából alapvető jelentőségű felépítő folyamat. Alacsony energiatartalmú kiindulási anyagokból (szén-dioxidból és vízből) **magas energiatartalmú, hidrogénben gazdag terméket, szőlőcukrot** képződik. A folyamat energiaigényét fényenergia biztosítja.
+A **fotoszintézis** az egész élővilág szempontjából alapvető jelentőségű felépítő folyamat. Alacsony energiatartalmú kiindulási anyagokból (szén-dioxidból és vízből) **magas energiatartalmú, hidrogénben gazdag termék, szőlőcukor** képződik. A folyamat energiaigényét fényenergia biztosítja.
 
 A zöld növények és a kékbaktériumok sejtjeiben zajló fotoszintézis az alábbi egyszerűsített egyenlettel írható le:
 
 **6 CO₂ + 6 H₂O = C₆H₁₂O₆ + 6 O₂**
 
-A fotoszintetizáló, autotróf élőlények (kékbaktériumok, eukarióta moszatok, növények) az életközösségek legfontosabb **termelő szervezetei**. A földtörténet korai időszakában a kékbaktériumok által több milliárd évig végzett fotoszintézis megemelte a légkör oxigéntartalmát, létrehozták az **oxidáló légkört**. Ennek következtében visszaszorultak az anaerob baktériumok, és megjelentek az oxigénes légzést folytató aerob élőlények.
+A fotoszintetizáló, autotróf élőlények (kékbaktériumok, eukarióta moszatok, növények) az életközösségek legfontosabb **termelő szervezetei**. A földtörténet korai időszakában a kékbaktériumok által több milliárd évig végzett fotoszintézis megemelte a légkör oxigéntartalmát, létrehozta az **oxidáló légkört**. Ennek következtében visszaszorultak az anaerob baktériumok, és megjelentek az oxigénes légzést folytató aerob élőlények.
 
 A fotoszintézis során a Nap sugárzó energiájának csak töredékét (1-3%) kötik meg, de végső soron minden heterotróf szervezet az általuk létrehozott szerves anyagokkal táplálkozik. A fotoszintézis alapvető jelentőségű folyamat a **légkör összetétel**ének alakításában is, hiszen a leghatékonyabb energianyeréshez, a biológiai oxidációhoz szükséges oxigén is ennek a folyamatnak a terméke. A növények a szén-dioxid megkötése révén **széntartalmú vegyületeket** raktároznak a testükben, aminek nagyobb része a légzéssel, illetve végső lebomlásuk során visszajut a környezetbe.
 
@@ -32,7 +32,7 @@ Mindkét vegyületcsoportban közös a **delokalizált elektronrendszer**, ami a
 
 A klorofillok kisebb aránya miatt egy klorofillmolekula több karotinoid elnyelt energiáját veszi át, így az energia összegződik, mígnem egy klorofill-a-molekulában annyi energia összegződik, hogy egy elektron nemcsak gerjesztődik, hanem ki is szakad a molekulából (magasabb energiájú állapotba kerül) és egy **elektronszállító rendszerre** kerül. Az elektronhiányos klorofill-a-molekula elektronja különböző forrásokból pótlódik.
 
-A fényszakasz során a gránumban megtörténik a **fotolízis**, ennek során fényenergia hatására a víz két hidrogénionra, két elektronra és oxigénre bomlik. A keletkező **oxigén** távozik a zöld színtestből és a növényből, ha csak biológiai oxidáció során fel nem használódik. Az elektronok a II-es fotorendszer elektronjait pótolják, a hidrogénionok pedig felhalmozódnak a gránum belsejében. Az elektronok a fotonok gerjesztésének hatására kiszakadnak a II-es fotorendszerből, és egy citokrómokból álló elektronszállító rendszerre kerülnek. Az elektronok energiája a hidrogénionok sztrómából való transzportjához biztosítanak energiát. Ezután az elektronok eljutnak az I-es fotorendszerhez, ahol ismétlődik a fotonokkal történő gerjesztés és az elektronszállítás, majd a nagy energiájú elektronok **redukálják a NADP⁺-t**.
+A fényszakasz során a gránumban megtörténik a **fotolízis**, ennek során fényenergia hatására a víz két hidrogénionra, két elektronra és oxigénre bomlik. A keletkező **oxigén** távozik a zöld színtestből és a növényből, ha csak biológiai oxidáció során fel nem használódik. Az elektronok a II-es fotorendszer elektronjait pótolják, a hidrogénionok pedig felhalmozódnak a gránum belsejében. Az elektronok a fotonok gerjesztésének hatására kiszakadnak a II-es fotorendszerből, és egy citokrómokból álló elektronszállító rendszerre kerülnek. Az elektronok energiája a hidrogénionok sztrómából való transzportjához biztosít energiát. Ezután az elektronok eljutnak az I-es fotorendszerhez, ahol ismétlődik a fotonokkal történő gerjesztés és az elektronszállítás, majd a nagy energiájú elektronok **redukálják a NADP⁺-t**.
 
 Eközben a hidrogénionok felhalmozódnak a gránumban, a sztrómában viszont kisebb a koncentrációjuk. Ez a koncentrációkülönbség biztosítja a kémiai energiát az ATP-szintézishez. A hidrogénionok a gránumból az **ATP-szintáz** enzimen keresztül a sztróma irányába mozognak, hogy a koncentrációkülönbség kiegyenlítődjön. Közben ADP-ből és foszforsavból (foszfátionból) **ATP** keletkezik. A hidrogénionok végső soron a már elektronokat felvett NADP⁺-ra kerülnek, és ezzel **NADPH** keletkezik.
 

@@ -2,7 +2,7 @@
 
 ## A sejtanyagcsere
 
-A sejtekben az anyagok felvételéhez, leadásához, felhasználásához, átalakításához szükséges biokémiai folyamatokat **anyagcserének** nevezzük. Az anyagcsere két alapvető irányból áll:
+A sejtekben az anyagok felvételéhez, leadásához, felhasználásához, átalakításához szükséges biokémiai folyamatokat **anyagcserének** nevezzük. Az anyagcsere két alapvető folyamatból áll:
 
 - A **felépítő (szintetizáló) folyamatok** során az élőlények saját, magas energiatartalmú szerves anyagaikat előállítják szervetlen vagy szerves anyagokból. Ide tartozik a fotoszintézis, amely fényenergiát használ, és a Calvin-ciklus során a CO₂-ből szőlőcukor keletkezik.
 - A **lebontó folyamatok** során a sejtek nagyobb méretű, magasabb energiaszintű szerves molekulákat alakítanak át kisebb méretű, alacsonyabb energiatartalmú részecskékké. A felszabaduló energia egy része **ATP képzésére** fordítódik, másik része hőenergiává alakul.
@@ -59,7 +59,7 @@ A hidrogénionok az **ATP-szintáz enzimen** keresztül a koncentrációkülönb
 
 ## A mitokondrium endoszimbionta eredete
 
-Az **endoszimbionta elmélet** szerint az eukarióta sejtek ősi prokarióta sorozatos egyesülésével és szimbiózisával fejlődtek ki. A prokarióta sejtek elvesztették sejtfalukat, majd a sejt méretének növekedése miatt csökkent a fajlagos felületük. Ezt a sejt membránjának betüremkedésével és leszakadásával kialakuló önálló belső membránrendszer kompenzálta. Kialakult egy proteoeukarióta sejt, amely egyes sejtalkotókhoz bekebelezett, de meg nem emésztett prokarióták útján jutott a sejt. A bekebelezett kékbaktériumokból a zöld színtest, a **mitokondrium pedig egy proteobaktériumból alakulhatott ki**.
+Az **endoszimbionta elmélet** szerint az eukarióta sejtek ősi prokarióta sorozatos egyesülésével és szimbiózisával fejlődtek ki. A prokarióta sejtek elvesztették sejtfalukat, majd a sejt méretének növekedése miatt csökkent a fajlagos felületük. Ezt a sejt membránjának betüremkedésével és leszakadásával kialakuló önálló belső membránrendszer kompenzálta. Kialakult egy proteoeukarióta sejt, amely egyes sejtalkotókhoz bekebelezett, de meg nem emésztett prokarióták útján jutott. A bekebelezett kékbaktériumokból a zöld színtest, a **mitokondrium pedig egy proteobaktériumból alakulhatott ki**.
 
 **Bizonyítékok:** ezeknek a sejtalkotóknak a mérete a baktériumok mérettartományába esik, belső membránjuk összetétele (lipid–fehérje arány) szintén hasonló, illetve saját zárt (gyűrűs) DNS-sel rendelkeznek, mint a baktériumok.
 
@@ -69,7 +69,7 @@ Az **endoszimbionta elmélet** szerint az eukarióta sejtek ősi prokarióta sor
 
 ![A mitokondrium felépítése](abrak/16a-mitokondrium-felepitese.png)
 
-*A mitokondrium kettős membránú sejtalkotó: külső membrán, intermembrán tér, kesztyűujjszerűen beüremkedő belső membrán (lemezek/krisztákkal), és a belső membrán által határolt mátrix. A mátrixban található a gyűrű alakú DNS és a 70S-es bakteriális típusú riboszómák. A tankönyv 111. ábrája alapján.*
+*A mitokondrium kettős membránú sejtalkotó: külső membrán, intermembrán tér, kesztyűujjszerűen beüremkedő belső membrán (lemezek/krisztákkal), és a belső membrán által határolt mátrix. A mátrixban találhatók a gyűrű alakú DNS és a 70S-es bakteriális típusú riboszómák. A tankönyv 111. ábrája alapján.*
 
 ![A sejtanyagcsere helyei a mitokondriumban](abrak/16b-mitokondrium-folyamatok.png)
 

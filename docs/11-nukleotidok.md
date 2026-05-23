@@ -53,7 +53,7 @@ A **nukleinsavak**ban a nukleotidegységek (nukleozid-monofoszfátok) **foszfát
 - Bázisok: **A, T, G, C** (uracil nincs).
 - A láncgerincet a cukor- és foszfátegységek adják (egyforma), a változó részt a hozzájuk kapcsolódó négy különböző bázis. A **bázisok sorrendje hordozza a genetikai információt**.
 - **Kettős hélix:** a DNS-szálat egy vele ellentétes lefutású szál kíséri, ezek egymás körül felcsavarodva kettős hélixet alkotnak. A két szál egymás **komplementere (kiegészítője)**: csak bizonyos bázispárok között tudnak hidrogénkötések kialakulni. Az **adeninnel szemben timin**, a **guaninnal szemben citozin** található a hélixben. Mivel a purin bázissal szemben mindig pirimidin bázis helyezkedik el, a két szál távolsága állandó.
-- A két szálat a **bázisok között kialakuló hidrogénkötések** kapcsolják egymáshoz. A hélix jobbmenetes, **2 nm átmérőjű**. Egy fordulat **3,4 nm hosszúságú és 10 bázispár** alkotja (egy bázispár 0,34 nm hosszúságú).
+- A két szálat a **bázisok között kialakuló hidrogénkötések** kapcsolják egymáshoz. A hélix jobbmenetes, **2 nm átmérőjű**. Egy fordulat **3,4 nm hosszúságú és 10 bázispárból áll** (egy bázispár 0,34 nm hosszúságú).
 - **5'- és 3'-vég:** egy szál esetében a 3' szénatomhoz tartozó szabad hidroxilcsoporttal rendelkező véget **3'-végnek**, a szabad foszfátcsoporttal rendelkező véget pedig **5'-végnek** nevezzük.
 
 ### RNS (ribonukleinsav)

@@ -8,7 +8,7 @@ Mindkét módszer **biokémiai keverékek (molekulák) szétválasztására** sz
 - A mozgó fázist a **kapillárishatás** húzza végig az álló fázison.
 - Az oldott anyagok a mozgó fázissal együtt haladnak, de eltérő mértékben **adszorbeálódnak** (megtapadnak) az álló fázis felületén. Amelyik anyag erősebben kötődik, rövidebb utat tesz meg.
 - Eredmény: az anyagok különböző távolságokra jutnak, **csíkokra/foltokra különülnek el** (pl. növényi színanyagok: klorofill-a, klorofill-b, xantofillok, karotinok).
-- Az adszorpciót Van der Waals-erők, esetleg kémiai kötés (kemiszorpció) okozza; a nagy **fajlagos felület** (felület/tömeg arány) növeli a hatékonyságot.
+- Az adszorpciót Van der Waals-erők, esetleg kémiai kötés (kemiszorpció) okozzák; a nagy **fajlagos felület** (felület/tömeg arány) növeli a hatékonyságot.
 
 **Gélelektroforézis**
 

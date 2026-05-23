@@ -14,7 +14,7 @@ Az interfázishoz tartozik a G₁, S és G₂ fázis:
 
 - **G₁ fázis:** a sejt növekszik, felkészül az S fázisra. Megtörténik a DNS-duplikációhoz szükséges mRNS-ek és fehérjék szintézise.
 - **S fázis:** a sejtmag teljes DNS-mennyisége megduplázódik, 46 darab DNS kettős spirálból 92 darab DNS kettős spirál jön létre.
-- **G₂ fázis:** a sejt felkészül az osztódásra: ismét intenzív RNS- és fehérjeszintézis folyik, kialakulnak a sejtosztódáshoz szükséges enzimek. A sejtközpont ebben a fázisban osztódik ketté, és mindkét mikrotubulus komplex kiegészítője létrejön.
+- **G₂ fázis:** a sejt felkészül az osztódásra: ismét intenzív RNS- és fehérjeszintézis folyik, kialakulnak a sejtosztódáshoz szükséges enzimek. A sejtközpont ebben a fázisban osztódik ketté, és mindkét mikrotubulus-komplex kiegészítője létrejön.
 
 ## A mitózis
 
@@ -26,7 +26,7 @@ A **mitózis** vagy számtartó osztódás az élőlények testi sejtjeire, ille
 
 **Utószakasz (anafázis).** Megindul a kromatidák szétválása, és vándorlásuk a két sejtközpont irányába. A kromatida és a mikrotubulus közötti motorfehérje húzza a kromatidát a sejtközpont irányába.
 
-**Végszakasz (telofázis).** A sejt két pólusánál lévő kromoszómák körül a profázisban létrejött membrándarabok fúziójából kialakul a két új sejtmaghártya. A megmaradt mikrotubulusok depolimerizálnak. Mindkét sejtmagban dekondenzálódnak (megnyúlnak, vékonyodnak, kitekerednek) a kromoszómák, és újra megjelenik a sejtmagvacska. Eközben zajlik a **sejtosztódás (citokinézis)**, ez zárja a mitózist. A folyamat eredményeként a kiindulási sejttel teljesen megegyező (46 → 92 → 46–46) genetikaiinformáció-tartalmú utódsejt jön létre.
+**Végszakasz (telofázis).** A sejt két pólusánál lévő kromoszómák körül a profázisban létrejött membrándarabok fúziójából kialakul a két új sejtmaghártya. A megmaradt mikrotubulusok depolimerizálnak. Mindkét sejtmagban dekondenzálódnak (megnyúlnak, vékonyodnak, kitekerednek) a kromoszómák, és újra megjelenik a sejtmagvacska. Eközben zajlik a **sejtosztódás (citokinézis)**, ez zárja a mitózist. A folyamat eredményeként a kiindulási sejttel teljesen megegyező (46 → 92 → 46–46) genetikaiinformáció-tartalmú utódsejtek jönnek létre.
 
 ## A meiózis
 

@@ -18,7 +18,7 @@ Az élőlényeket aszerint csoportosítjuk, hogy honnan **szerzik a szenet** a s
 Az élőlényeket az **energiaforrásuk** szerint is csoportosítjuk:
 
 - **Fototrófok:** ha az élőlény a napfényt képes energiaforrásként használni.
-- **Kemotrófok:** ha a vegyületek oxidációjával nyer energiát.
+- **Kemotrófok:** ha a vegyületek oxidációjával nyernek energiát.
 
 ## A négy fő anyagcseretípus
 

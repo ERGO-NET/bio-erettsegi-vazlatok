@@ -22,7 +22,7 @@ A szénhidrátok szénből, hidrogénből és oxigénből felépülő szerves ve
 
 **Cukrok kimutatása**
 
-- **Redukáló cukrok** (szabad glikozidos OH-csoportú aldehidcsoportot tartalmaz): **Fehling-próba** (téglavörös Cu₂O csapadék), **ezüsttükör-próba**. Idetartoznak a monoszacharidok és a laktóz, maltóz, cellobióz.
+- **Redukáló cukrok** (szabad glikozidos OH-csoportú aldehidcsoportot tartalmaznak): **Fehling-próba** (téglavörös Cu₂O csapadék), **ezüsttükör-próba**. Idetartoznak a monoszacharidok és a laktóz, maltóz, cellobióz.
 - **Nem redukáló cukor:** szacharóz (mindkét gyűrűs hidroxilcsoportja kötésben van).
 
 **Biológiai szerepek összefoglalva**

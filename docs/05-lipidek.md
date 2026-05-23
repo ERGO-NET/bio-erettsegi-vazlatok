@@ -16,7 +16,7 @@ A lipidek (zsírszerű anyagok) változatos szerkezetű szerves vegyületek. Kö
 
 **Szteroidok**
 
-- Négy összekapcsolódó szénatomos gyűrűből álló, jellegzetes vázú vegyületek.
+- Négy összekapcsolódó gyűrűből álló, jellegzetes vázú vegyületek.
 - **Koleszterin:** állati sejtmembránok alkotója, prekurzora más szteroidoknak.
 - **Epesavak:** zsírok emésztését segítik (emulgeálás).
 - **Hormonok:** nemi hormonok (tesztoszteron, ösztrogén, progeszteron), mellékvesekéreg-hormonok (kortizol, aldoszteron).

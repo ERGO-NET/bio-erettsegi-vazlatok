@@ -13,11 +13,11 @@ A fehérjék **aminosavakból** felépülő polimerek; a legtöbb fehérje 50–
 - **Elsődleges:** az aminosavak **sorrendje** a polipeptidláncban (genetikailag meghatározott).
 - **Másodlagos:** a peptidlánc gerincén **hidrogénkötések** szabályos térszerkezetet alakítanak ki – **α-hélix** (csavart) és **β-redő** (összerakott szalagok); a β-kanyar köti össze a szakaszokat.
 - **Harmadlagos:** az **oldalláncok közötti** kölcsönhatások (diszulfid-híd S–S, ionos kötés, hidrogénkötés, hidrofób kölcsönhatás) hozzák létre a fehérje térbeli, **globuláris vagy fonálszerű** alakját.
-- **Negyedleges:** több polipeptid lánc kapcsolódik egy működő egységgé (pl. **hemoglobin**: 4 alegység).
+- **Negyedleges:** több polipeptidlánc kapcsolódik egy működő egységgé (pl. **hemoglobin**: 4 alegység).
 
 **Alak szerinti csoportosítás**
 
-- **Fonálszerű (rostos) fehérjék:** vízben nem oldódnak; pl. **keratin** (haj, köröm), **kollagén** (kötőszövet), **fibrin** (véralvadás), **mioszin** (izom).
+- **Fonálszerű (rostos) fehérjék:** vízben nem oldódnak; pl. **keratin** (haj, köröm), **kollagén** (kötőszövet), **fibrin** (véralvadás), **miozin** (izom).
 - **Globuláris fehérjék:** vízben oldhatók; pl. **albumin** (vérplazma, fehérjeszállítás), **hemoglobin** (O₂-szállítás), enzimek, ellenanyagok.
 
 **Denaturáció és koaguláció**

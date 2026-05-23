@@ -10,7 +10,7 @@ Az **ozmózis** az oldószer-molekulák egyirányú áramlása **féligátereszt
 
 **Ozmotikus nyomás**
 
-- Az a hidrosztatikai nyomás, amely a koncentrációkülönbség miatti oldószer-áramlást megállítaná.
+- Az a hidrosztatikus nyomás, amely a koncentrációkülönbség miatti oldószer-áramlást megállítaná.
 - Híg oldatra: **Π = c · R · T** (c = oldott anyag móláris koncentrációja, R = egyetemes gázállandó, T = abszolút hőmérséklet).
 - **Fordított (revers) ozmózis:** ha a töményebb oldatra az ozmotikus nyomásnál nagyobb nyomást fejtünk ki, az oldószer az ellenkező irányba áramlik (ivóvíz-előállítás, vesedialízis elvi alapja).
 
