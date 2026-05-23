@@ -1,7 +1,5 @@
 # 3. A víz tulajdonságai és biológiai jelentősége
 
-## Vázlat (~200 szó)
-
 A víz nemcsak élőhely az élőlényeknek, hanem **az élő szervezetek legfontosabb szervetlen vegyülete** is (a testtömeg ~60–95%-a). Tulajdonságait molekulaszerkezete határozza meg.
 
 **Szerkezet és kötések**

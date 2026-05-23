@@ -1,7 +1,5 @@
 # 1. Életkritériumok
 
-## Vázlat (~200 szó)
-
 **Az élet fogalma.** Az élő rendszerek a természet hierarchikusan felépülő, anyag- és energiaforgalmat folytató, önszabályozó rendszerei. Az élővilág szerveződési szintjei: sejt → szövet → szerv → szervezet (egyed) → populáció → társulás → bioszféra.
 
 **Az élet (egyedi) kritériumai – a könyv felsorolása:**

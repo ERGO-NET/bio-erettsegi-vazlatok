@@ -1,7 +1,5 @@
 # 2. Kromatográfia és gélelektroforézis
 
-## Vázlat (~200 szó)
-
 Mindkét módszer **biokémiai keverékek (molekulák) szétválasztására** szolgál: különböző tulajdonságok alapján más-más sebességgel haladnak az anyagok egy közegen át.
 
 **Kromatográfia (papír- vagy oszlopkromatográfia)**
