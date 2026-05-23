@@ -9,7 +9,6 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.expand
-    - toc.integrate
     - content.code.copy
   palette:
     - scheme: default
