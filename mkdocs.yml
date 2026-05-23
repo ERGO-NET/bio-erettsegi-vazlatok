@@ -43,6 +43,7 @@ nav:
       - 11. Nukleotidok: 11-nukleotidok.md
       - 12. Vírusok: 12-virusok.md
       - 13. Anyagcseretípusok (szén- és energiaforrás): 13-anyagcseretipusok.md
+      - 14. A fotoszintézis: 14-fotoszintezis.md
 
 markdown_extensions:
   - admonition
