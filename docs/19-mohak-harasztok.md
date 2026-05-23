@@ -35,12 +35,7 @@ A harasztok tehát **szövetekkel és szervekkel rendelkező, virágtalan növé
 
 A szárazföldi növények közül elsőként a harasztok csoportjába tartozó növényeknél alakultak ki a **szövetek** és a **szervek**. A **bőrszövet** lehetővé tette a kiszáradás elleni védelmet, a benne található **gázcserenyílások** és **párologtatás** révén biztosítják a **szállítószövetekben** a víz áramlását a gyökértől a hajtáscsúcs irányába. A szállítószövet segítségével valóra vált a növényekben a **nedvkeringés** lehetősége, a **szilárdítószövet** megjelenése pedig a mohákénál nagyobb méretű növények kialakulását eredményezte. A szövetek szervekké szerveződése még hatékonyabbá tette az egyes, a szárazföldi léthez szükséges élettani folyamatok véghezvitelét. Így a **gyökér** feladata a rögzítés, valamint a víz és a benne oldott ásványi anyagok felvétele, a **szár**é és a **levelek**é tartása és az anyagszállítás, a **levél**é pedig a gázcsere, a párologtatás és a fotoszintézis.
 
-## Mohák és harasztok közötti fő különbség: melyik nemzedék a domináns?
-
-A két csoport közötti egyik leglényegesebb különbség, hogy melyik nemzedék az uralkodó:
-
-- **Mohák:** a mohanövény az **ivaros (haploid, n) nemzedék** része. Ez a felépített, látható növény, ami ivarsejteket termel. A diploid spóratartó (2n) a mohanövény tetején nő, kis méretű, rövid életű.
-- **Harasztok:** a harasztnövény (gyökérrel, gyöktörzzsel, levéllel rendelkező növény) az **ivartalan (diploid, 2n) nemzedék** része. Az ivaros nemzedék (előtelep) lemezes, kicsi, rövid életű. A harasztnövény nagy, hosszú életű, ez a meghatározó.
+## Áttekintő összehasonlítás
 
 | Tulajdonság | Mohák | Harasztok |
 | --- | --- | --- |
@@ -51,13 +46,7 @@ A két csoport közötti egyik leglényegesebb különbség, hogy melyik nemzed�
 | **Ivarsejtek termelése** | mohanövény csúcsán | előtelepen |
 | **Hímivarsejt mozgása** | ostoros | csillós |
 | **Megtermékenyítéshez víz?** | szükséges | szükséges |
-| **Uralkodó nemzedék** | ivaros (haploid) | ivartalan (diploid) |
-
-## Életközösségi és ökológiai szerep
-
-A mohák a szukcesszió korai szakaszában fontosak: elősegítik a talajképződést, részt vesznek a kőzetek mállasztásában. A mohagyepek vizet tárolnak az életközösségek számára. Nagyobb esőzésekkor mérséklik a talaj elhordását.
-
-A harasztok jelentős evolúciós előrelépést hoztak: ezekkel jelentek meg először a **szárazföldi növények szövetei és szervei**. A bőrszövet, a szállítószövet (víz áramlása), a szilárdítószövet (méret növekedése) és a szervekké szerveződés tette lehetővé a fejlettebb szárazföldi növények evolúcióját.
+| **Harasztnövény / mohanövény** | a mohanövény az ivaros nemzedék része | a harasztnövény az ivartalan, diploid nemzedék része |
 
 ---
 
@@ -73,7 +62,7 @@ A harasztok jelentős evolúciós előrelépést hoztak: ezekkel jelentek meg el
 
 ![A mohák és a harasztok nemzedékváltakozásának összehasonlítása](abrak/19c-mohak-harasztok.png)
 
-*A tankönyv 23. ábrája alapján. Mindkét csoport kétszakaszos egyedfejlődéssel (nemzedékváltakozással) szaporodik. A mohák uralkodó (felépített) nemzedéke az ivaros (haploid) mohanövény; a harasztoknál ez fordított: a domináns nemzedék az ivartalan (diploid) harasztnövény.*
+*A tankönyv 23. ábrája alapján. Mindkét csoport nemzedékváltakozással szaporodik. A mohák esetében a mohanövény az ivaros (haploid) nemzedék része, a harasztoknál a harasztnövény az ivartalan (diploid) nemzedék része.*
 
 ---
 
