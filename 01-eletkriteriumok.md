@@ -1,9 +1,5 @@
 # 1. Életkritériumok
 
-**Forrás:** Gyűjtemény a Biológia emelt szintű oktatásához (OH, NAT 2020), I. kötet, 14–16. oldal („Az élő rendszerek jellemzői – életkritériumok", „Egyed feletti szerveződés – evolúciós kritériumok").
-
----
-
 ## Vázlat (~200 szó)
 
 **Az élet fogalma.** Az élő rendszerek a természet hierarchikusan felépülő, anyag- és energiaforgalmat folytató, önszabályozó rendszerei. Az élővilág szerveződési szintjei: sejt → szövet → szerv → szervezet (egyed) → populáció → társulás → bioszféra.
@@ -26,7 +22,7 @@
 
 ![Az élővilág szerveződési szintjei](abrak/01-elovilag-szervezodesi-szintjei.png)
 
-*15. ábra. Az élővilág szerveződési szintjei (sejt → szövet → szerv → szervezet → populáció → társulás → biom → bioszféra). Forrás: OH biológiagyűjtemény, 13. o.*
+*Az élővilág szerveződési szintjei (sejt → szövet → szerv → szervezet → populáció → társulás → biom → bioszféra)*
 
 ---
 
