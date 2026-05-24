@@ -75,15 +75,15 @@ A **rovarok** szaporodása: **váltivarúak** (más-más egyedben van a hímivar
 
 ![A csigák testfelépítése](abrak/24a-csiga-testfelepites.png)
 
-*A tankönyv 74. ábrája alapján. Az éticsiga szervei: tüdővéna, vese, tüdő, szívpitvar, szívkamra, szívburok ürege, húgyvezető, végbélnyílás, légzőnyílás, hímivarsejteket tároló zsák, pete-ondóvezető, bélrendszer, középbéli mirigy, láb, aorta, gyomor, nyálmirigy, nyelőcső, ivarnyílás, szájnyílás, lábdúc, agydúc, tapogató, szem.*
+*Az éticsiga szervei: tüdővéna, vese, tüdő, szívpitvar, szívkamra, szívburok ürege, húgyvezető, végbélnyílás, légzőnyílás, hímivarsejteket tároló zsák, pete-ondóvezető, bélrendszer, középbéli mirigy, láb, aorta, gyomor, nyálmirigy, nyelőcső, ivarnyílás, szájnyílás, lábdúc, agydúc, tapogató, szem.*
 
 ![A rovarok tápcsatornája és nyílt keringési rendszere](abrak/24b-rovar-tapcsatorna.png)
 
-*A tankönyv 79. ábrája alapján. A rovarok tápcsatornája: nyálmirigy, nyáltartály, nyelőcső, begy, rágógyomor, vakbelek, középbél, Malpighi-csövek, végbél, utóbél. Nyílt keringési rendszer: garat, aorta elülső folytatása, legyezőizmok, szívkamrák.*
+*A rovarok tápcsatornája: nyálmirigy, nyáltartály, nyelőcső, begy, rágógyomor, vakbelek, középbél, Malpighi-csövek, végbél, utóbél. Nyílt keringési rendszer: garat, aorta elülső folytatása, legyezőizmok, szívkamrák.*
 
 ![Az ízeltlábúak főbb csoportjai](abrak/24c-izeltlabuak.png)
 
-*A tankönyv 77. ábrája alapján. Az ízeltlábúak három fő csoportja és lábszámuk: rákok (5 pár láb, fejtor + potroh), pókszabásúak (4 pár láb, fejtor + potroh), rovarok (3 pár láb, fej + tor + potroh, szárnyakkal).*
+*Az ízeltlábúak három fő csoportja és lábszámuk: rákok (5 pár láb, fejtor + potroh), pókszabásúak (4 pár láb, fejtor + potroh), rovarok (3 pár láb, fej + tor + potroh, szárnyakkal).*
 
 ---
 

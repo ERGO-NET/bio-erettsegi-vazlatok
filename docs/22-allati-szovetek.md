@@ -42,15 +42,15 @@ Jellegzetes sejtjei az **idegsejtek** és a **gliasejtek**. Az idegsejt nyúlvá
 
 ![Hámszövetek típusai](abrak/22a-hamszovetek.png)
 
-*A tankönyv 90. ábrája alapján. A többrétegű elszarusodó laphám (A): szaruréteg, szemcsés sejtek rétege, tüskés sejtek rétege, alapréteg/osztódó sejtek rétege. Az egyrétegű hám (B): egyetlen sejtrétegből álló, alaphártyához rögzülő hámsejtek. A mirigyhám (C): külső elválasztású mirigy.*
+*A többrétegű elszarusodó laphám (A): szaruréteg, szemcsés sejtek rétege, tüskés sejtek rétege, alapréteg/osztódó sejtek rétege. Az egyrétegű hám (B): egyetlen sejtrétegből álló, alaphártyához rögzülő hámsejtek. A mirigyhám (C): külső elválasztású mirigy.*
 
 ![Kötő- és támasztószövetek](abrak/22b-kotoszovetek.png)
 
-*A tankönyv 91. ábrája alapján. Néhány példa: (A) laza rostos kötőszövet — szabálytalan lefutású fehérjerostokkal; (B) porcszövet — sejtek kisebb csoportokban, jelentős alapállománnyal; (C) vér — folyékony sejt közötti állománnyal; (D) csontszövet — Havers-csatornákkal; (E) zsírszövet — zsírcseppekkel teli zsírsejtekkel.*
+*Néhány példa: (A) laza rostos kötőszövet — szabálytalan lefutású fehérjerostokkal; (B) porcszövet — sejtek kisebb csoportokban, jelentős alapállománnyal; (C) vér — folyékony sejt közötti állománnyal; (D) csontszövet — Havers-csatornákkal; (E) zsírszövet — zsírcseppekkel teli zsírsejtekkel.*
 
 ![Az izomszövetek típusai](abrak/22c-izomszovetek.png)
 
-*A tankönyv 92. ábrája alapján. A három izomszövet-típus összehasonlítása: (A) simaizomszövet — orsó alakú sejtek, központi sejtmag, nincs harántcsíkolat; (B) vázizomszövet — összeolvadt izomrostok, szélen elhelyezkedő sejtmagok, harántcsíkolt; (C) szívizomszövet — Y alakban elágazó sejtek, központi sejtmag, harántcsíkolt, réskapcsolatokkal.*
+*A három izomszövet-típus összehasonlítása: (A) simaizomszövet — orsó alakú sejtek, központi sejtmag, nincs harántcsíkolat; (B) vázizomszövet — összeolvadt izomrostok, szélen elhelyezkedő sejtmagok, harántcsíkolt; (C) szívizomszövet — Y alakban elágazó sejtek, központi sejtmag, harántcsíkolt, réskapcsolatokkal.*
 
 ---
 

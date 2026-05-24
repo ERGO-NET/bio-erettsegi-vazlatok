@@ -56,11 +56,11 @@ A szerves anyagok felhasználási helyén (nem fotoszintetizáló szövetek, rak
 
 ![Az anyagáramlás iránya a farészben és a háncsrészben](abrak/21b-aramlas-iranya.png)
 
-*A tankönyv 58. ábrája alapján. A farészben egyirányú a víz és az ásványi anyagok áramlása a gyökértől a hajtás felé (gyökérnyomás + kapillaritás + párologtatási szívóerő). A háncsrészben kétirányú a szerves anyagok áramlása: a fotoszintézis termékei a levelektől a növény egyes pontjai felé, a turgornyomás-különbség hajtja. A ligninnel szilárdított sejtfalú farész és a lyukcsos sejtfalú háncsrész szerkezetében is eltér.*
+*A farészben egyirányú a víz és az ásványi anyagok áramlása a gyökértől a hajtás felé (gyökérnyomás + kapillaritás + párologtatási szívóerő). A háncsrészben kétirányú a szerves anyagok áramlása: a fotoszintézis termékei a levelektől a növény egyes pontjai felé, a turgornyomás-különbség hajtja. A ligninnel szilárdított sejtfalú farész és a lyukcsos sejtfalú háncsrész szerkezetében is eltér.*
 
 ![A szállítónyaláb hosszmetszete](abrak/21c-szallitonyalab.png)
 
-*A tankönyv 44. ábrája alapján. A szállítónyalábban a vízszállító sejtek (harasztok, nyitvatermők) és a vízszállító csövek (zárvatermők) szállítják a vizet és az ásványi anyagokat a farészben. A háncsrészben a rostasejtek és rostacsövek (zárvatermőkben) szállítják a szerves anyagokat, a kísérősejtek segítségével.*
+*A szállítónyalábban a vízszállító sejtek (harasztok, nyitvatermők) és a vízszállító csövek (zárvatermők) szállítják a vizet és az ásványi anyagokat a farészben. A háncsrészben a rostasejtek és rostacsövek (zárvatermőkben) szállítják a szerves anyagokat, a kísérősejtek segítségével.*
 
 ---
 

@@ -46,11 +46,11 @@ A tömlőn érkező **első hímivarsejt megtermékenyíti a petesejtet**, ebbő
 
 ![A zárvatermő kétszikű virág felépítése](abrak/20a-virag-felepitese.png)
 
-*A tankönyv 30. ábrája alapján. A zárvatermő virág részei: csészelevelek és sziromlevelek (takarólevelek), porzószál és portok (porzó/hímivarlevél), bibe, bibeszál, magház és magkezdemények (termőlevél). A magház a magot védő zárt képződmény, csúcsi része a bibe — ide tapad meg megporzáskor a virágpor.*
+*A zárvatermő virág részei: csészelevelek és sziromlevelek (takarólevelek), porzószál és portok (porzó/hímivarlevél), bibe, bibeszál, magház és magkezdemények (termőlevél). A magház a magot védő zárt képződmény, csúcsi része a bibe — ide tapad meg megporzáskor a virágpor.*
 
 ![A zárvatermők kettős megtermékenyítése](abrak/20b-kettos-megtermekenyites.png)
 
-*A tankönyv 32. ábrája alapján. Bal oldalon: virágporszem-anyasejt (2n) meiózissal 4 virágporszem-kezdeményt (n) hoz létre, ebből lesz a virágpor (pollen), ami mitózissal vegetatív és generatív sejtből áll. Jobb oldalon: embriózsák-anyasejt (2n) meiózissal 4 sejtet, ebből 1 él tovább, és háromszori mitózissal jön létre a 8 sejtből álló embriózsák (petesejt, 2 kísérősejt, 3 ellenlábas sejt, 2 központi sejt). A pollentömlőn érkező két hímivarsejt egyike a petesejtet termékenyíti meg (zigóta 2n → embrió), a másik a központi sejtet (táplálószövet 3n).*
+*Bal oldalon: virágporszem-anyasejt (2n) meiózissal 4 virágporszem-kezdeményt (n) hoz létre, ebből lesz a virágpor (pollen), ami mitózissal vegetatív és generatív sejtből áll. Jobb oldalon: embriózsák-anyasejt (2n) meiózissal 4 sejtet, ebből 1 él tovább, és háromszori mitózissal jön létre a 8 sejtből álló embriózsák (petesejt, 2 kísérősejt, 3 ellenlábas sejt, 2 központi sejt). A pollentömlőn érkező két hímivarsejt egyike a petesejtet termékenyíti meg (zigóta 2n → embrió), a másik a központi sejtet (táplálószövet 3n).*
 
 ![A három növénycsoport összehasonlítása](abrak/20c-novenycsoportok.png)
 

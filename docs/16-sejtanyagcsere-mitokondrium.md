@@ -69,7 +69,7 @@ Az **endoszimbionta elmélet** szerint az eukarióta sejtek ősi prokarióta sor
 
 ![A mitokondrium felépítése](abrak/16a-mitokondrium-felepitese.png)
 
-*A mitokondrium kettős membránú sejtalkotó: külső membrán, intermembrán tér, kesztyűujjszerűen beüremkedő belső membrán (lemezek/krisztákkal), és a belső membrán által határolt mátrix. A mátrixban találhatók a gyűrű alakú DNS és a 70S-es bakteriális típusú riboszómák. A tankönyv 111. ábrája alapján.*
+*A mitokondrium kettős membránú sejtalkotó: külső membrán, intermembrán tér, kesztyűujjszerűen beüremkedő belső membrán (lemezek/krisztákkal), és a belső membrán által határolt mátrix. A mátrixban találhatók a gyűrű alakú DNS és a 70S-es bakteriális típusú riboszómák.*
 
 ![A sejtanyagcsere helyei a mitokondriumban](abrak/16b-mitokondrium-folyamatok.png)
 

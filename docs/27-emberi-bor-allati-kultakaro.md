@@ -88,15 +88,15 @@ A gerincteleneknél a légzőszervek a kültakaró származékai (a gerincesekn�
 
 ![A bőr szerkezete](abrak/27a-bor-szerkezete.png)
 
-*A tankönyv 9. ábrája alapján. A bőr három rétege és képletei: felhám, irha, bőralja. Az ábrán látható szerkezetek: szőrszál, verejtékpórus, érzőideg-végződés, szőrmerevítő izom, faggyúmirigy, szőrtüsző, verejtékmirigy, ideg, véna, artéria.*
+*A bőr három rétege és képletei: felhám, irha, bőralja. Az ábrán látható szerkezetek: szőrszál, verejtékpórus, érzőideg-végződés, szőrmerevítő izom, faggyúmirigy, szőrtüsző, verejtékmirigy, ideg, véna, artéria.*
 
 ![A pigmentsejt működése](abrak/27b-pigmentsejt.png)
 
-*A tankönyv 12. ábrája alapján. A pigmentsejt működése napsütés hatására (a) és a különböző bőrszínek eltérő pigmentáltsága (b). A festékszemcsék a pigmentsejt nyúlványaiban szétterülve takarják az UV-sugárzásra érzékeny osztódó sejteket.*
+*A pigmentsejt működése napsütés hatására (a) és a különböző bőrszínek eltérő pigmentáltsága (b). A festékszemcsék a pigmentsejt nyúlványaiban szétterülve takarják az UV-sugárzásra érzékeny osztódó sejteket.*
 
 ![UV-sugárzás és DNS-mutáció](abrak/27c-uv-mutacio.png)
 
-*A tankönyv 13. ábrája alapján. UV-sugárzás hatására a bőrben mutációk jöhetnek létre, amelyek bőrdaganatokat okozhatnak. A két szomszédos timin normális kötődése a szemben lévő bázisokhoz vs. a timin dimer képződése (a szomszédos timinek egymással kapcsolódnak).*
+*UV-sugárzás hatására a bőrben mutációk jöhetnek létre, amelyek bőrdaganatokat okozhatnak. A két szomszédos timin normális kötődése a szemben lévő bázisokhoz vs. a timin dimer képződése (a szomszédos timinek egymással kapcsolódnak).*
 
 ---
 

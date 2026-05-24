@@ -68,15 +68,15 @@ A rovaroknak **dúcidegrendszerük** van. Érzékelésük: egyszerű pontszemeik
 
 ![A közönséges földigiliszta testfelépítése](abrak/23a-foldigiliszta.png)
 
-*A tankönyv 71. ábrája alapján. A földigiliszta szervei: szájnyílás, garat, nyelőcső, begy, gyomor, középbél, "szívek" (5 pár harántvéredény), agydúc, háti ér, hasi ér, kiválasztó szerv, idegrendszer, testüreg, bőrizomtömlő.*
+*A földigiliszta szervei: szájnyílás, garat, nyelőcső, begy, gyomor, középbél, "szívek" (5 pár harántvéredény), agydúc, háti ér, hasi ér, kiválasztó szerv, idegrendszer, testüreg, bőrizomtömlő.*
 
 ![Az ízelt láb felépítése](abrak/23b-izeltlab.png)
 
-*A tankönyv 76. ábrája alapján. Egy ízelt láb részlete: külső váz, feszítőizom, hajlítóizom — a saját izomzattal rendelkező ízek csuklósan mozgathatók.*
+*Egy ízelt láb részlete: külső váz, feszítőizom, hajlítóizom — a saját izomzattal rendelkező ízek csuklósan mozgathatók.*
 
 ![A rovarok tápcsatornája és nyílt keringési rendszere](abrak/23c-rovar-tapcsatorna.png)
 
-*A tankönyv 79. ábrája alapján. A rovarok tápcsatornája: nyálmirigy, nyáltartály, nyelőcső, begy, rágógyomor, vakbelek, középbél, Malpighi-csövek, végbél, utóbél. Nyílt keringési rendszer: aorta elülső folytatása, legyezőizmok, szívkamrák.*
+*A rovarok tápcsatornája: nyálmirigy, nyáltartály, nyelőcső, begy, rágógyomor, vakbelek, középbél, Malpighi-csövek, végbél, utóbél. Nyílt keringési rendszer: aorta elülső folytatása, legyezőizmok, szívkamrák.*
 
 ---
 

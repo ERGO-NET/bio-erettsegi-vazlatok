@@ -86,15 +86,15 @@ A **főemlősök idegrendszere** a **tanulás, az emlékezés és a problémameg
 
 ![A hüllők jellemzői](abrak/26a-hullok.png)
 
-*A tankönyv 85. ábrája alapján. A hüllők főbb jellemzői: gerinces állatok, vízben és szárazföldön is élnek, négylábúak (kivéve kígyók), testüket szarupikkelyek vagy szarupajzsok borítják, tüdővel lélegeznek, a pikkelyesek szívének két pitvara és egy, három térrészre osztott kamrája van (a krokodilok szívének kamrasövénye teljes).*
+*A hüllők főbb jellemzői: gerinces állatok, vízben és szárazföldön is élnek, négylábúak (kivéve kígyók), testüket szarupikkelyek vagy szarupajzsok borítják, tüdővel lélegeznek, a pikkelyesek szívének két pitvara és egy, három térrészre osztott kamrája van (a krokodilok szívének kamrasövénye teljes).*
 
 ![Az emlősök jellemzői](abrak/26b-emlosok.png)
 
-*A tankönyv 87. ábrája alapján. Az emlősök főbb jellemzői: gerincesek közé tartoznak, az alsó állcsont egyetlen csontból áll, testüket általában szőr fedi, tüdővel lélegeznek, a középfülben 3 hallócsontjuk van és négyüregű a szívük, állandó testhőmérsékletűek.*
+*Az emlősök főbb jellemzői: gerincesek közé tartoznak, az alsó állcsont egyetlen csontból áll, testüket általában szőr fedi, tüdővel lélegeznek, a középfülben 3 hallócsontjuk van és négyüregű a szívük, állandó testhőmérsékletűek.*
 
 ![Változó és állandó testhőmérséklet](abrak/26c-testhomerseklet.png)
 
-*A tankönyv 88. ábrája alapján. Egy változó és egy állandó testhőmérsékletű állat testhőmérsékletének változása a külső hőmérséklet függvényében egy nap alatt. Az állandó testhőmérsékletű élőlény (pl. emlős) testhőmérséklete kiegyenlített marad, a változó testhőmérsékletű élőlény (pl. hüllő) testhőmérséklete együtt változik a környezeti hőmérséklettel.*
+*Egy változó és egy állandó testhőmérsékletű állat testhőmérsékletének változása a külső hőmérséklet függvényében egy nap alatt. Az állandó testhőmérsékletű élőlény (pl. emlős) testhőmérséklete kiegyenlített marad, a változó testhőmérsékletű élőlény (pl. hüllő) testhőmérséklete együtt változik a környezeti hőmérséklettel.*
 
 ---
 

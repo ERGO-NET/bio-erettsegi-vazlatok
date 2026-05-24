@@ -40,15 +40,15 @@ A madarak és az emlősök állandó testhőmérsékletűek, amely köszönhető
 
 ![A kétéltűek jellemzői](abrak/25a-keteltuek.png)
 
-*A tankönyv 84. ábrája alapján. A kétéltűek főbb jellemzői: a gerincesek közé tartoznak, életük első szakasza vízhez kötött, lárvaalakjuk van (ebihal), lárvaalakban kopoltyúval, kifejletten tüdővel lélegeznek, a lárva úszószegéllyel mozog, a kifejlett egyedek négylábúak, nyálkás, gyengén elszarusodó bőrük van.*
+*A kétéltűek főbb jellemzői: a gerincesek közé tartoznak, életük első szakasza vízhez kötött, lárvaalakjuk van (ebihal), lárvaalakban kopoltyúval, kifejletten tüdővel lélegeznek, a lárva úszószegéllyel mozog, a kifejlett egyedek négylábúak, nyálkás, gyengén elszarusodó bőrük van.*
 
 ![A hüllők jellemzői](abrak/25b-hullok.png)
 
-*A tankönyv 85. ábrája alapján. A hüllők főbb jellemzői: gerinces állatok, vízben és szárazföldön is élnek, négylábúak (kivéve kígyók), testüket szarupikkelyek vagy szarupajzsok borítják, tüdővel lélegeznek, a pikkelyesek szívének két pitvara és egy, három térrészre osztott kamrája van (a krokodilok szívének kamrasövénye teljes).*
+*A hüllők főbb jellemzői: gerinces állatok, vízben és szárazföldön is élnek, négylábúak (kivéve kígyók), testüket szarupikkelyek vagy szarupajzsok borítják, tüdővel lélegeznek, a pikkelyesek szívének két pitvara és egy, három térrészre osztott kamrája van (a krokodilok szívének kamrasövénye teljes).*
 
 ![A madarak jellemzői](abrak/25c-madarak.png)
 
-*A tankönyv 86. ábrája alapján. A madarak főbb jellemzői: gerinces állatok, a legtöbb madár repül, de vannak futómadarak és vízben úszók is (pingvinek), a repülő madarak szegycsontja tarajos, két szárnyuk és két lábuk van, testük tollakkal fedett, tüdővel lélegeznek, a kettős légzés biztosítja a repülés fokozott oxigénigényét, a középfülben három hallócsontjuk van és négyüregű a szívük.*
+*A madarak főbb jellemzői: gerinces állatok, a legtöbb madár repül, de vannak futómadarak és vízben úszók is (pingvinek), a repülő madarak szegycsontja tarajos, két szárnyuk és két lábuk van, testük tollakkal fedett, tüdővel lélegeznek, a kettős légzés biztosítja a repülés fokozott oxigénigényét, a középfülben három hallócsontjuk van és négyüregű a szívük.*
 
 ---
 

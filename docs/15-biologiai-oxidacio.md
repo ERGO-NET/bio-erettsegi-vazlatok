@@ -116,7 +116,7 @@ Az állati szervezet vázizmai is képesek az oxigénellátottságtól függően
 
 ![A biológiai oxidáció és a fotoszintézis kapcsolata](abrak/15a-oxidacio-fotoszintezis.png)
 
-*A két folyamat egymás ellentéte. A fotoszintézis (zöld színtestben) fényenergiát használ, CO₂-ot és H₂O-t alakít szőlőcukorrá és O₂-vé. A biológiai oxidáció (mitokondriumban) a szőlőcukrot és az O₂-t bontja CO₂-ra és H₂O-ra, és kémiai energiát (ATP) szabadít fel. A tankönyv 84. ábrája alapján.*
+*A két folyamat egymás ellentéte. A fotoszintézis (zöld színtestben) fényenergiát használ, CO₂-ot és H₂O-t alakít szőlőcukorrá és O₂-vé. A biológiai oxidáció (mitokondriumban) a szőlőcukrot és az O₂-t bontja CO₂-ra és H₂O-ra, és kémiai energiát (ATP) szabadít fel.*
 
 ![A biológiai oxidáció négy lépése](abrak/15b-oxidacio-negy-lepes.png)
 
@@ -124,7 +124,7 @@ Az állati szervezet vázizmai is képesek az oxigénellátottságtól függően
 
 ![A biológiai oxidáció és az erjedés összehasonlítása](abrak/15c-oxidacio-erjedes.png)
 
-*A tankönyv 85. ábrája alapján: a szőlőcukor lebontása a sejtplazmában glikolízissel piroszőlősavra. Innen ha van O₂ (biológiai oxidáció), akkor a folyamat a mitokondriumban folytatódik, és CO₂ + H₂O + sok ATP keletkezik. Ha nincs O₂ (erjedés), akkor a sejtplazmában maradva alkohol és CO₂ vagy szerves savak (tejsav) keletkeznek kevés ATP-vel.*
+*a szőlőcukor lebontása a sejtplazmában glikolízissel piroszőlősavra. Innen ha van O₂ (biológiai oxidáció), akkor a folyamat a mitokondriumban folytatódik, és CO₂ + H₂O + sok ATP keletkezik. Ha nincs O₂ (erjedés), akkor a sejtplazmában maradva alkohol és CO₂ vagy szerves savak (tejsav) keletkeznek kevés ATP-vel.*
 
 ---
 

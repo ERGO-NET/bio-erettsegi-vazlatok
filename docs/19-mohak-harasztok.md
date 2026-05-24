@@ -54,15 +54,15 @@ A szárazföldi növények közül elsőként a harasztok csoportjába tartozó 
 
 ![A mohák kétszakaszos egyedfejlődése](abrak/19a-mohak-fejlodese.png)
 
-*A tankönyv 21. ábrája alapján. A haploid (n) ivaros nemzedék: spóra → előtelep (fonalas) → mohanövény → ivarsejtek (hímivarsejt és petesejt). A megtermékenyítéshez víz szükséges, mert a hímivarsejt ostoros. A diploid (2n) ivartalan nemzedék: zigóta → spóratartó nyél és tok a mohanövény csúcsán → meiózissal újra spórák keletkeznek.*
+*A haploid (n) ivaros nemzedék: spóra → előtelep (fonalas) → mohanövény → ivarsejtek (hímivarsejt és petesejt). A megtermékenyítéshez víz szükséges, mert a hímivarsejt ostoros. A diploid (2n) ivartalan nemzedék: zigóta → spóratartó nyél és tok a mohanövény csúcsán → meiózissal újra spórák keletkeznek.*
 
 ![A harasztok nemzedékváltakozása (erdei pajzsika)](abrak/19b-harasztok-fejlodese.png)
 
-*A tankönyv 22. ábrája alapján. A haploid (n) ivaros nemzedék: spóra → lemezes előtelep → ivarsejtek (hím- és petesejtképzés). A diploid (2n) ivartalan nemzedék: zigóta → harasztnövény (gyökérrel, szárral, levéllel) → spóratartó tok a levelek fonákán → meiózissal spórák.*
+*A haploid (n) ivaros nemzedék: spóra → lemezes előtelep → ivarsejtek (hím- és petesejtképzés). A diploid (2n) ivartalan nemzedék: zigóta → harasztnövény (gyökérrel, szárral, levéllel) → spóratartó tok a levelek fonákán → meiózissal spórák.*
 
 ![A mohák és a harasztok nemzedékváltakozásának összehasonlítása](abrak/19c-mohak-harasztok.png)
 
-*A tankönyv 23. ábrája alapján. Mindkét csoport nemzedékváltakozással szaporodik. A mohák esetében a mohanövény az ivaros (haploid) nemzedék része, a harasztoknál a harasztnövény az ivartalan (diploid) nemzedék része.*
+*Mindkét csoport nemzedékváltakozással szaporodik. A mohák esetében a mohanövény az ivaros (haploid) nemzedék része, a harasztoknál a harasztnövény az ivartalan (diploid) nemzedék része.*
 
 ---
 
