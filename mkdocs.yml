@@ -62,6 +62,7 @@ nav:
       - 26. Emlősök és hüllők: 26-emlosok-hullok.md
       - 27. Emberi bőr és állati kültakaró: 27-emberi-bor-allati-kultakaro.md
       - 28. Emésztés: 28-emesztes.md
+      - 29. A szénhidrátok útja a szervezetben: 29-szenhidratok-utja.md
 
 markdown_extensions:
   - admonition
