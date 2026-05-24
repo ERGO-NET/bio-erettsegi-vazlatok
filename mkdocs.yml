@@ -60,6 +60,7 @@ nav:
       - 24. Rovar és csiga összehasonlítása: 24-rovar-csiga-osszehasonlitas.md
       - 25. Kétéltűek, hüllők, madarak: 25-keteltuek-hullok-madarak.md
       - 26. Emlősök és hüllők: 26-emlosok-hullok.md
+      - 27. Emberi bőr és állati kültakaró: 27-emberi-bor-allati-kultakaro.md
 
 markdown_extensions:
   - admonition
