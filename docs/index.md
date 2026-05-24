@@ -2,7 +2,7 @@
 
 > **Személyes, oktatási célú felkészülési segédanyag** a 2026-os emelt szintű biológia érettségire. A vázlatok és az ábrák a magyar középiskolai biológia tankönyvek alapján készültek, kizárólag egyéni tanulási célra. Nem nyilvános terjesztésre, nem kereskedelmi felhasználásra. Részletek a [README](https://github.com/ERGO-NET/bio-erettsegi-vazlatok#readme)-ben.
 
-Eddig elkészült **27 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
+Eddig elkészült **28 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
 
 1. [Életkritériumok](01-eletkriteriumok.md)
 2. [Kromatográfia, gélelektroforézis](02-kromatografia-gelelektroforezis.md)
@@ -31,3 +31,4 @@ Eddig elkészült **27 tétel**. Válassz a bal oldali navigációból, vagy a l
 25. [Kétéltűek, hüllők, madarak](25-keteltuek-hullok-madarak.md)
 26. [Emlősök és hüllők](26-emlosok-hullok.md)
 27. [Emberi bőr és állati kültakaró](27-emberi-bor-allati-kultakaro.md)
+28. [Emésztés](28-emesztes.md)
