@@ -56,6 +56,8 @@ nav:
       - 20. Szárazföldi növények és a kettős megtermékenyítés: 20-szarazfoldi-novenyek-kettos-megtermekenyites.md
       - 21. Folyadékáramlás növényekben: 21-folyadekaramlas-novenyekben.md
       - 22. Állati szövetek: 22-allati-szovetek.md
+      - 23. Rovarok és gyűrűsférgek: 23-rovarok-gyurusfergek.md
+      - 24. Rovar és csiga összehasonlítása: 24-rovar-csiga-osszehasonlitas.md
 
 markdown_extensions:
   - admonition
