@@ -1,6 +1,6 @@
 # Biológia tételek
 
-Eddig elkészült **25 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
+Eddig elkészült **26 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
 
 1. [Életkritériumok](01-eletkriteriumok.md)
 2. [Kromatográfia, gélelektroforézis](02-kromatografia-gelelektroforezis.md)
@@ -27,3 +27,4 @@ Eddig elkészült **25 tétel**. Válassz a bal oldali navigációból, vagy a l
 23. [Rovarok és gyűrűsférgek](23-rovarok-gyurusfergek.md)
 24. [Rovar és csiga összehasonlítása](24-rovar-csiga-osszehasonlitas.md)
 25. [Kétéltűek, hüllők, madarak](25-keteltuek-hullok-madarak.md)
+26. [Emlősök és hüllők](26-emlosok-hullok.md)
