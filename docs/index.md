@@ -2,7 +2,7 @@
 
 > **Személyes, oktatási célú felkészülési segédanyag** a 2026-os emelt szintű biológia érettségire. A vázlatok és az ábrák a magyar középiskolai biológia tankönyvek alapján készültek, kizárólag egyéni tanulási célra. Nem nyilvános terjesztésre, nem kereskedelmi felhasználásra. Részletek a [README](https://github.com/ERGO-NET/bio-erettsegi-vazlatok#readme)-ben.
 
-Eddig elkészült **29 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
+Eddig elkészült **30 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
 
 1. [Életkritériumok](01-eletkriteriumok.md)
 2. [Kromatográfia, gélelektroforézis](02-kromatografia-gelelektroforezis.md)
@@ -33,3 +33,4 @@ Eddig elkészült **29 tétel**. Válassz a bal oldali navigációból, vagy a l
 27. [Emberi bőr és állati kültakaró](27-emberi-bor-allati-kultakaro.md)
 28. [Emésztés](28-emesztes.md)
 29. [A szénhidrátok útja a szervezetben](29-szenhidratok-utja.md)
+30. [Szénhidrátok és lipidek emésztése](30-szenhidratok-lipidek-emesztese.md)

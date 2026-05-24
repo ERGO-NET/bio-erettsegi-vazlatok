@@ -63,6 +63,7 @@ nav:
       - 27. Emberi bőr és állati kültakaró: 27-emberi-bor-allati-kultakaro.md
       - 28. Emésztés: 28-emesztes.md
       - 29. A szénhidrátok útja a szervezetben: 29-szenhidratok-utja.md
+      - 30. Szénhidrátok és lipidek emésztése: 30-szenhidratok-lipidek-emesztese.md
 
 markdown_extensions:
   - admonition
