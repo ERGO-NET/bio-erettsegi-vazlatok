@@ -1,5 +1,7 @@
 # Biológia tételek
 
+> **Személyes, oktatási célú felkészülési segédanyag** a 2026-os emelt szintű biológia érettségire. A vázlatok és az ábrák a magyar középiskolai biológia tankönyvek alapján készültek, kizárólag egyéni tanulási célra. Nem nyilvános terjesztésre, nem kereskedelmi felhasználásra. Részletek a [README](https://github.com/ERGO-NET/bio-erettsegi-vazlatok#readme)-ben.
+
 Eddig elkészült **27 tétel**. Válassz a bal oldali navigációból, vagy a lenti listából:
 
 1. [Életkritériumok](01-eletkriteriumok.md)
